@@ -82,10 +82,6 @@ your-repo-name/
 - **Googletrans**: For text translation.
 - **ffmpeg-python**: To handle audio file processing.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - Thanks to [OpenAI](https://openai.com) for the Whisper model.
